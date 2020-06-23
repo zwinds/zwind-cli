@@ -1,0 +1,29 @@
+{
+  "name": "zwind-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "zwind": "./bin/zwind.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "commander": "^5.1.0",
+    "download-git-repo": "^3.0.2",
+    "figlet": "^1.4.0",
+    "inquirer": "^7.2.0",
+    "open": "^7.0.4",
+    "ora": "^4.0.4",
+    "watch": "^1.0.2"
+  }
+}
