@@ -1,5 +1,5 @@
 # 搭建一个自己cli
-[中文]()     [English](https://github.com/zwinds/zwind-cli/README.en.md)
+[中文]()     [English](https://github.com/zwinds/zwind-cli/blob/master/README.en.md)
 ## 初始化项目
 > npm init
 
